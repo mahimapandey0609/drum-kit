@@ -1,4 +1,12 @@
 # drum-kit
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
